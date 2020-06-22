@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Count Chars in a String", "01. Count Chars in a String\01. Count Chars in a String.csproj", "{7C96F038-88C5-4148-9DBA-27A04CF92834}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. A Miner Task", "02. A Miner Task\02. A Miner Task.csproj", "{138A379B-00C6-4B43-9525-A5D462A1AD9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Legendary Farming", "03. Legendary Farming\03. Legendary Farming.csproj", "{97EAE617-8811-40F1-8B5B-95A6A0F7AAF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Orders", "04. Orders\04. Orders.csproj", "{2226EF43-DA98-4116-8EBF-DB5D82BE03BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C96F038-88C5-4148-9DBA-27A04CF92834}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C96F038-88C5-4148-9DBA-27A04CF92834}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C96F038-88C5-4148-9DBA-27A04CF92834}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C96F038-88C5-4148-9DBA-27A04CF92834}.Release|Any CPU.Build.0 = Release|Any CPU
+		{138A379B-00C6-4B43-9525-A5D462A1AD9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{138A379B-00C6-4B43-9525-A5D462A1AD9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{138A379B-00C6-4B43-9525-A5D462A1AD9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{138A379B-00C6-4B43-9525-A5D462A1AD9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97EAE617-8811-40F1-8B5B-95A6A0F7AAF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97EAE617-8811-40F1-8B5B-95A6A0F7AAF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97EAE617-8811-40F1-8B5B-95A6A0F7AAF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97EAE617-8811-40F1-8B5B-95A6A0F7AAF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2226EF43-DA98-4116-8EBF-DB5D82BE03BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2226EF43-DA98-4116-8EBF-DB5D82BE03BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2226EF43-DA98-4116-8EBF-DB5D82BE03BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2226EF43-DA98-4116-8EBF-DB5D82BE03BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78996C74-7AD2-4E3B-A95B-F604BF6C9BBE}
+	EndGlobalSection
+EndGlobal

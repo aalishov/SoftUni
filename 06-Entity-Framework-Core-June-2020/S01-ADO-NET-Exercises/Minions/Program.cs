@@ -19,6 +19,7 @@ namespace Minions
             Console.WriteLine(CreateDatabase.CreateTableEvilnessFactors());
             Console.WriteLine(CreateDatabase.CreateTableVillains());
             Console.WriteLine(CreateDatabase.CreateTableMinionsVillains());
+            Console.WriteLine(CreateDatabase.InsertData());
         }
 
     }

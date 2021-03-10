@@ -92,3 +92,19 @@ form button{
     border: none;
     padding: 0.5%;
 }
+
+.btn{
+    margin: 0 auto;
+    display:block;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    border-radius: 4px;
+    background-color: #234465;
+    color:white;
+    border: none;
+    padding: 0.5%;
+}
+
+#editForm{
+    display: none;
+}

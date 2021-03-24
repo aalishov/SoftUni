@@ -1,0 +1,6 @@
+1. Extract project skleton and examine files
+2. Setup NPM project (package.json+libraries)
+3. Analyze the HTML and dermine templates
+4. Configure routing with placeholder modules
+5. Implement requests
+6. Implement each view

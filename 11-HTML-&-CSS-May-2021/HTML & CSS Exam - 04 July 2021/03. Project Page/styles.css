@@ -1,0 +1,221 @@
+@import url("https://use.fontawesome.com/releases/v5.15.3/css/all.css");
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,600;1,900&family=Open+Sans:wght@300;400&display=swap');
+body {
+    margin: 0;
+    padding: 0;
+    color: black;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+}
+
+h1 {
+    padding-top: 30px;
+    padding-bottom: 0;
+    font-size: 40pt;
+    font-weight: 900;
+}
+h2{
+    padding-right: 250px;
+    font-size: 10pt;
+    font-weight: bold;
+}
+h3{
+    color: white;
+    border-left: 3px solid #FFB605;
+    padding:0 0 0 8px;
+    font-size: small;
+}
+
+.header {
+    margin: auto;
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+}
+.nav-logo{
+    margin: auto;
+}
+.nav-logo>img{
+    width: 60%;
+    height: 60%;
+}
+
+.contact-info {
+    display: flex;
+    justify-content: center;
+    font-size: small;
+}
+
+.contact-info>section {
+    margin: 10px;
+}
+
+.first-info {
+    color: grey;
+    margin: 0 0px 5px 0;
+}
+
+.second-info {
+    font-weight: bold;
+    margin: 0 0 0 0;
+}
+
+.phone, .email {
+    padding-right: 15px;
+    border-right: 1px solid grey ;
+}
+.btn-container{
+    margin: auto;
+}
+
+.nav {
+    background: #23282D;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 90px;
+}
+
+.nav-list-items {
+    display: flex;
+    align-items: center;
+}
+
+.nav-list-item {
+    margin: 0 12px;
+    list-style: none;
+}
+
+.nav-list-item a {
+    text-decoration: none;
+    color: white;
+}
+
+.nav-list-item a:hover {
+    text-decoration: none;
+    color: #FFB605;
+}
+
+.heading {
+    text-align: center;
+    color: white;
+    background-image: url('./images/banner1.jpg');
+    background-size: cover;
+    padding: 45px;
+    opacity: 0.9;
+}
+
+.heading>p {
+    font-size: xx-small;
+    padding-bottom: 30px;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    margin: 50px;
+}
+
+.image-wrapper{
+    text-align: right;
+}
+.image-wrapper>img {
+    width: 80%;
+    height: 80%;
+}
+
+.project-info {
+    padding: 0 15px 0 15px;
+}
+.info{
+    font-size: small;
+    font-weight: bold;
+}
+.description{
+    font-size: small;
+    color: grey;
+}
+.submit-btn {
+    background: #FFB600;
+    color: white;
+    border-radius: 3px;
+    text-transform: uppercase;
+    font-weight: bold;
+    border: none;
+    padding: 12px 26px;
+  }
+
+footer a{
+    text-decoration: none;
+    color: grey;
+}
+footer .top{
+    display: flex;
+    justify-content: center;
+    line-height: 25px;
+    padding: 50px;
+    background-color: black;
+    color: grey;
+}
+.about-us{
+    width: 25%;
+ 
+}
+.footer-logo>img{
+    width: 80%;
+    margin-top: 15px;
+}
+.services{
+    width: 20%;
+}
+.icons{
+    display: flex;
+    align-items: center;
+}
+
+.icons li {
+    margin: 0 12px;
+    list-style: none;
+}
+
+.working-hours{
+    width: 30%;
+    padding: 0px 40px 0px 40px;
+}
+.hours>section{
+    display: flex;
+    justify-content: space-between;
+}
+.hours>section>p{
+    margin: 10px;
+}
+.services-list{
+   padding:  0;
+}
+.services-list li{
+    list-style: none;
+    padding: 10px;
+}
+
+.bottom{
+    padding: 10px;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #FFB600;
+}
+
+.bottom-list{
+    padding:  0;
+    display: flex;
+ }
+ .bottom-list li{
+     list-style: none;
+     padding: 0 5px 0 5px;
+ }
+ .bottom-list a{
+     color: black;
+ }
